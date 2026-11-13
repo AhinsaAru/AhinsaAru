@@ -2,9 +2,9 @@
 
 `Quality Assurance | Manual Testing | Test Automation | API Testing`
 
-QA Engineer Intern who enjoys finding what can go wrong before users do. I design test cases, report defects clearly, and automate the checks that matter so teams can release with confidence.
+QA Engineer Intern who enjoys finding what can go wrong before users do. I work in an Agile team doing manual, functional, regression and API testing, and I automate tests with Selenium, Playwright and Appium.
 
-I'm ISTQB CTFL v4.0 certified and currently building deeper skills in UI, API and mobile automation, CI/CD, and testing with generative AI.
+I'm ISTQB CTFL v4.0 certified and currently building deeper skills in UI, API and mobile test automation, CI/CD with Jenkins, and testing with generative AI.
 
 <br>
 
@@ -23,13 +23,12 @@ I'm ISTQB CTFL v4.0 certified and currently building deeper skills in UI, API an
 
 #### Testing & Quality Practices
 
-- Requirement analysis and test planning
-- Test scenario and test case design (BVA, equivalence partitioning)
-- Functional, regression, smoke and sanity testing
-- Exploratory and UI testing
-- API testing and validation
-- Bug reporting and defect life cycle management
-- STLC and Agile/Scrum workflows
+- Manual, functional and regression testing
+- Smoke, sanity and UI testing
+- API testing
+- Test scenarios and test case design
+- Bug reporting and defect life cycle
+- STLC and Agile/Scrum
 
 #### Automation & Programming
 
@@ -37,23 +36,19 @@ I'm ISTQB CTFL v4.0 certified and currently building deeper skills in UI, API an
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662CDC?style=flat-square&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=flat-square&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-#### API & Data
+#### API, Web & Databases
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest_Assured-5A9E3A?style=flat-square&logoColor=white)
-![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-#### Performance
-
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 #### Test Management & Collaboration
 
@@ -80,7 +75,9 @@ I'm ISTQB CTFL v4.0 certified and currently building deeper skills in UI, API an
 - ISTQB Certified Tester Foundation Level (CTFL) v4.0
 - ISTQB Testing with Generative AI (CT-GenAI) *(in progress)*
 - Software Quality Assurance using Test Automation Framework, UCSC *(in progress)*
+- Introduction to Software Quality Assurance, University of Moratuwa
 - GitHub Foundations
+- Selenium WebDriver 4 with Java, Packt
 
 <br>
 
